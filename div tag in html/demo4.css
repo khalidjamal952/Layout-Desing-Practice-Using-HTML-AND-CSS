@@ -1,0 +1,131 @@
+*{
+    margin: 10;
+    padding: 0;
+    box-sizing: border-box;
+/* border-radius: 10px; */
+}
+
+body{
+    background-color: powderblue;
+}
+.outer1{
+    width: 1200px;
+     height: 800px;
+     /* border: 5px solid red; */
+     /* display: flex; */
+     /* justify-content: center;
+     align-items: center; */
+     margin: auto;
+     
+}
+.outer2{
+  width: 1200px;
+  height: 100px;
+  /* border: 2px solid green; */
+  background-color: yellowgreen;
+
+}
+.outer2 h2{
+    text-align: center;
+    font-size: 29px;
+    text-transform: capitalize;
+    font-family: cursive;
+    color: indianred;
+    /* background-color: blue; */
+}
+
+.outer3{
+    width: 1200px;
+    height: 200px;
+    /* border: 2px solid black; */
+    /* flex-wrap: wrap; */
+display: flex;
+}
+.outer3 .otr3{
+    width: 200px;
+     height: 200px;
+     /* border: 2px solid magenta; */
+     background-color: magenta;
+}
+.outer3 .otr4{
+    width: 1000px;
+    height: 200px;
+    /* border: 1px solid blue; */
+    background-color: pink;
+}
+.outer4{
+width: 1200px;
+height: 100px;
+/* border: 1px solid rgb(199, 25, 54); */
+ /* text-align: center; */
+ background-color: brown;
+}
+.outer4 h4{
+ text-align: center;
+ font-size: 25px;
+ margin-top: 15px;
+ color: rgb(221, 10, 10);
+}
+
+.outer5{
+    width: 1200px;
+    height: 200px;
+    /* border: 1px solid rgb(3, 173, 99); */
+    display: flex;
+}
+.outer5 .otr5{
+    width: 800px;   
+    height: 200px;
+    border: 1px solid blue;
+    background-color: wheat;
+}
+.outer5 .otr6{
+    width: 400px;
+    height: 200px;
+    /* border: 1px solid rgb(205, 0, 106); */
+    background-color: yellow;
+}
+
+.outer6{
+    width: 1200px;
+    height: 100px;
+    background-color: pink;
+    display: flex;
+}
+.outer6 .otr7{
+width: 400px;
+height: 100px;
+/* border: 1px solid black; */
+background-color: blueviolet;
+}
+.outer6 .otr8{
+    width: 400px;
+    height: 100px;
+    /* border: 1px solid black; */
+    background-color: blue;
+}
+.outer6 .otr9{
+    width: 400px;
+    height: 100px;
+    /* border: 1px solid black; */
+    background-color: rgb(232, 138, 16);
+}
+
+.outer7{
+    height: 100px;
+    width: 1200px;
+    /* border: 1px solid blue; */
+    display: flex;
+}
+.outer7 .otr10{
+    width: 800px;
+    height: 100px;
+    /* border: 1px solid green; */
+    background-color: palegoldenrod;
+}
+.outer7 .otr11{
+    width: 400px;
+    height: 100px;
+    /* border: 1px solid yellowgreen; */
+    background-color: brown;
+}
